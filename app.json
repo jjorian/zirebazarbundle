@@ -4,6 +4,7 @@
     "name": "ZireBazar",
     "slug": "ZireBazar",
     "privacy": "hidden",
+    "primaryColor": "#C2185B",
     "platforms": [
       "ios",
       "android",
@@ -30,7 +31,7 @@
       "enabled": true,
       "checkAutomatically": "ON_LOAD",
       "fallbackToCacheTimeout": 2000,
-      "url": "http://ddd"
+      "url": "http://parsianandroid.ir/DownLoads/Upgrades/ZireBazar/Android/"
     },
     "assetBundlePatterns": [
       "**/*"
