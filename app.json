@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "owner": "parsianandroid",
+    "name": "ZireBazar",
+    "slug": "ZireBazar",
+    "privacy": "hidden",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ic_launcher.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "ir.parsianandroid.zirebazar",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "ir.parsianandroid.zirebazar",
+      "versionCode": 1
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],     
+    "description": ""
+  }
+}
