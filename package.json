@@ -42,8 +42,7 @@
     "react-native-web": "~0.13.12",
     "react-navigation-header-buttons": "^7.0.2",
     "react-number-format": "^4.5.3",
-    "start": "^5.1.0",
-    "unimodules-permissions-interface": "~6.1.0"
+    "start": "^5.1.0"
   },
   "devDependencies": {
     "babel-preset-expo": "8.3.0"
